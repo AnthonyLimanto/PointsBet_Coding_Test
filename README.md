@@ -9,3 +9,10 @@ For candidates, please follow the below points to complete the test:
 - Once complete your solution, please submit the codebase to your GitHub and share the public link with our HR team
 
 Thank you for completing the code test with PointsBet.
+
+------------------------------------------------------------------------------------------------------------
+
+How to Run
+
+1. Navigate to the test folder
+2. run "dotnet run" on terminal
