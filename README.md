@@ -12,9 +12,11 @@ Thank you for completing the code test with PointsBet.
 
 ------------------------------------------------------------------------------------------------------------
 
-Added test directory to allow for easy testing of code, left StringFormatter.cs in both in test project directory and root directory
+Added test directory to allow for easy testing of code, left StringFormatter.cs in both in test project directory and root directory.
 
 How to Run
 
 1. Navigate to the test directory
 2. run "dotnet run" on terminal
+
+This will compile and run the code. Please ensure that .NET SDK is installed.
