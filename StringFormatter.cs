@@ -18,7 +18,7 @@ namespace PointsBet_Backend_Online_Code_Test
 
         // Code to improve
         // Fix typo in Separated
-        // Changing parameter name quote to wrapper since we may want to use this function with string than just single or double quotes
+        // Changing parameter name from quote to wrapper since we may want to use this function with other strings than just single or double quotes
         public static string ToCommaSeparatedList(string[] items, string wrapper)
         {
             // Added null check for safety
